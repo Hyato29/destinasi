@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProklimJobenLestari" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#ff5e00</item>
+         <item name="colorPrimaryVariant">#ff5e00</item>
+    </style>
+
+    <style name="SlideActionAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">
+            @anim/slide_in_right
+        </item>
+        <item name="android:activityOpenExitAnimation">
+            @anim/slide_out_left
+        </item>
+    </style>
+</resources>

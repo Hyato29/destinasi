@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Proklim Joben Lestari</string>
+    <string name="home">Home</string>
+    <string name="potensi">Wisata</string>
+    <string name="Maps">Maps</string>
+    <string name="subtitle">Wisata Lombok</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="title">WISTAL</string>
+    <string name="card">Lorem Ipsum is simply dummy text of the printings</string>
+    <string name="get_started">Discover \nThe Beauty \nof Lombok</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="descKuta">
+Pantai Kuta terkenal dengan pasir berwarna putih seperti buliran merica ini terletak di Kawasan Ekonomi Khusus Mandalika di Desa Kuta.
+        \n
+        \n
+Pasir yang berwarna putih dengan garis pantai yang panjang, serta dekat dengan sirkuit Mandalika menjadikan Kuta sebagai idola bagi para wisatawan domestik dan mancanegara.\n
+    </string>
+    <string name="descPink">
+Pantai Pink merupakan salah satu dari pantai di Pulau Lombok yang memiliki pasir pantai berwarna pink.
+        \n
+        \n
+Warna pink pada pasir pantai terbentuk dari butir-butir yang tercampur dengan serpihan halus karang merah yang telah mati.
+        \n
+        \n
+Bias sinar matahari dan terpaan air laut menambah kejelasan warna merah muda(pink) di pantai tersebut.
+        \n
+        \n
+Pantai Pink Lombok memiliki ombak yang tidak besar, sehingga pantai ini cukup nyaman untuk mencari ketenangan.
+        \n
+        \n
+Terlebih dengan awan yang bergulung di angkasa saat cuaca cerah. Hamparan Bukit disekitar pantai makin menambah kesempurnaan pemandangan di sekitar pantai\n
+    </string>
+    <string name="descSenggigi">
+Pantai Senggigi adakah tempat parawisata yang terkenal di Lombok. Pantai senggigi memang tidak sebesar Pantai Kuta di Bali, tetapi seketika kita berada di sini akan merasa seperti berada di Pantai Kuta Bali.
+        \n
+        \n
+Memasuki area Pantai Senggigi, wisatawan serta merta disapa oleh lembutnya angin semilir yang menenangkan. Terumbu karangnya menjulang ke tengah menyebabkan ombak besarya pecah di tengah.
+        \n
+        \n
+Tersedia juga hotel-hotel dengan harga yang bervariasi.\n
+    </string>
+    <string name="descTanjungAan">
+Pantai ini memiliki dua jenis pasir yang membentang di sepanjang pantai. Jenis pertama adalah pasir halus seperti tepung dan jenis kedua adalah pasir bertekstur seperti merica pada bagian kiri pantai dekat bukit.
+        \n
+        \n
+Pengunjung tak hanya bisa mengeksplor pantai ini saja. Disekitar Pantai Tanjung Aan, ada beberapa tempat unik, wisata unik yang bisa dikunjungi.
+        \n
+        \n
+Ada Bukit Merese,dari atas Bukit Merese pengunjung dapat menikmati pemandangan langit dan luasnya lautan yang begitu menawan. Dengan pemandangan seperti itu, Bukit Merese sangat cocok dijadikan spot foto yang instagramable dan terkadang menjadi tempat foto prewedding.\n
+    </string>
+    <string name="descKuraKura">
+Pantai Kura-Kura dikenal karena terdapat batu besar seperti koral yang nyaris, persisi seperti berbentuk kura-kura. Dari struktur kepala hingga tempurung ekot nyaris sangat mirip dengan kura-kura.
+        \n
+        \n
+Karena belum banyak wisatawan yang mengunjungi tempat ini, maka Pantai Kura-Kura dijuluki dengan sebutan surga tersembunyi. Letaknya tersembunyi dengan keindahan yang luar biasa.
+        \n
+        \n
+Disana akan disuguhi pasir putih yang sangat sayang untuk dilewatkan. Air laut yang begitu jernih dan terdapat batu koral di pinggir pantai, menambah kesan natural dan sangat instagramable ketika hendak mengambil gambar.\n
+    </string>
+</resources>
